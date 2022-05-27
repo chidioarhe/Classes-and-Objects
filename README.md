@@ -1,8 +1,8 @@
 # Task Title: Classes and Objects
 
-## Read the Guidelines first here: [Guidelines](https://www.zuriboard.com)
+## Read the Guidelines first here: [Guidelines](https://www.waiting.zuriboard.com/dashboard/task/44)
 
-* Download the Starter Project [here](https://www.zuriboard.com).
+* Download the Starter Project [here](https://www.waiting.zuriboard.com/dashboard/task/44).
 * You can follow the steps outlined in the guidelines.
 
 ## Resources:
